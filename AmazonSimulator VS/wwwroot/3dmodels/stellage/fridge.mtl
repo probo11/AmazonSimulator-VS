@@ -1,0 +1,38 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Black_Rubber
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.427451 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Metal.jpg
+
+newmtl logo_general_electric
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.478431 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd logo_general_electric.jpg
+
+newmtl Logo_Frigidaire
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.803922 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd Logo_Frigidaire.png
+
+newmtl Logo_Frigidaire1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.803922 0.811765
+Ks 0.330000 0.330000 0.330000
+map_Kd Logo_Frigidaire1_.png
+
